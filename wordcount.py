@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
+# TOOK AROUND 3 HOURS TO COMPLETE WITH ALOT OF RESEARCH AND GOOGLEFU!
+# THESE EXTRA LINES IS FOR MY EXTRA CREDIT POINT!
 import sys
 
 # +++your code here+++
